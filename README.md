@@ -5,12 +5,15 @@ Census Territorial Authority Subdivision boundaries as used by Statistics New Ze
 
 ## Licencing
 
-Shapefiles have been released by Statistics New Zealand under the
-[Creative Commons Attribution 3.0 New Zealand
-Licence](http://creativecommons.org/licenses/by/3.0/nz/).
+This work is based on/includes [Statistics New
+Zealand](http://www.stats.govt.nz/)'s data which are
+licensed by Statistics New Zealand for re-use under the [Creative
+Commons Attribution 3.0 New Zealand
+licence](http://creativecommons.org/licenses/by/3.0/nz/).
 
-Source ESRI shapefiles are available on the [Statistics New Zealand
+Source ESRI shapefiles are available on the [Statistics NZ
 website](http://www.stats.govt.nz/browse_for_stats/people_and_communities/Geographic-areas/digital-boundary-files.aspx).
+
 
 ### Use with Bower:
 
